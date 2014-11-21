@@ -13,10 +13,10 @@ Description:
 
 
 Analysis Steps:
-1. Download the Samsung Data to your working directory
-2. Set working directory in r script
-3. Run the script (run_analysis.r)
-4. Output = tidy dataset called "tidy.data.comp"
+-  Download the Samsung Data to your working directory
+-  Set working directory in r script
+-  Run the script (run_analysis.r)
+-  Output = tidy dataset called "tidy.data.comp"
 
 
 Gettin and Cleaning Data Course- Final project
